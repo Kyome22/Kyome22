@@ -1,4 +1,4 @@
-![banner](https://github.com/Kyome22/Kyome22/blob/master/banner.png)
+![banner](https://github.com/Kyome22/Kyome22/raw/master/banner.png)
 
 [![uhooi's github stats](https://github-readme-stats.vercel.app/api?username=Kyome22&show_icons=true)](https://github.com/Kyome22)
 
