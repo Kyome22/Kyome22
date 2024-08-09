@@ -1,4 +1,4 @@
-<picture　align="center">
+<picture align="center">
     <source srcset="/banner_dark.png" media="(prefers-color-scheme: dark)" alt="Kyome22">
     <img src="/banner.png" alt="Kyome22">
 </picture>
