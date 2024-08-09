@@ -1,7 +1,9 @@
-<picture align="center">
+<p align="center">
+  <picture>
     <source srcset="/banner_dark.png" media="(prefers-color-scheme: dark)" alt="Kyome22">
     <img src="/banner.png" alt="Kyome22">
-</picture>
+  </picture>
+</p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyome22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyome22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyome22&layout=compact&theme=buefy&hide_border=true" /> |
 | ----- | ----- |
