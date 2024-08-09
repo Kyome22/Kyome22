@@ -8,12 +8,10 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyome22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyome22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyome22&layout=compact&theme=buefy&hide_border=true" /> |
 | ----- | ----- |
 
-[![GitHub](https://img.shields.io/github/followers/Kyome22?style=social)](https://github.com/Kyome22)
-[![Twitter](https://img.shields.io/twitter/follow/Kyomesuke?style=social)](https://twitter.com/Kyomesuke)
-
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Kyome/posts.svg)](http://qiita.com/Kyome)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Kyome/contributions.svg)](http://qiita.com/Kyome)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Kyome/followers.svg)](http://qiita.com/Kyome)
+[![Likes](https://badgen.org/img/zenn/kyome/likes?style=flat)](https://zenn.dev/kyome)
+[![Articles](https://badgen.org/img/zenn/kyome/articles?style=flat)](https://zenn.dev/kyome)
+[![Contributions](https://badgen.org/img/qiita/Kyome/contributions?style=flat)](https://qiita.com/Kyome)
+[![Articles](https://badgen.org/img/qiita/Kyome/articles?style=flat)](https://qiita.com/Kyome)
 
 ### Swift Packages
 
