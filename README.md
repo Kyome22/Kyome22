@@ -1,12 +1,11 @@
 <p align="center">
   <picture>
-    <source srcset="/banner_dark.png" media="(prefers-color-scheme: dark)" alt="Kyome22">
-    <img src="/banner.png" alt="Kyome22">
+    <source srcset="/images/banner_dark.png" media="(prefers-color-scheme: dark)" alt="Kyome22">
+    <img src="/images/banner.png" alt="Kyome22">
   </picture>
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyome22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyome22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyome22&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+![statistics](images/userstats.svg)
 
 [![Likes](https://badgen.org/img/zenn/kyome/likes?style=flat)](https://zenn.dev/kyome)
 [![Articles](https://badgen.org/img/zenn/kyome/articles?style=flat)](https://zenn.dev/kyome)
@@ -17,6 +16,7 @@
 
 - [GitGrass](https://github.com/Kyome22/GitGrass)
 - [NewCanvas](https://github.com/Kyome22/NewCanvas)
+- [RunCat365](https://github.com/Kyome22/RunCat365)
 - [ScanTextFromImage](https://github.com/Kyome22/ScanTextFromImage)
 - [ScreenNote](https://github.com/Kyome22/screennote)
 - [ShiftWindow](https://github.com/Kyome22/ShiftWindow)

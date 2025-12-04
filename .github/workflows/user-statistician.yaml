@@ -1,0 +1,21 @@
+name: User Statistician
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-slim
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          include-title: false
+          hide-keys: general
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
