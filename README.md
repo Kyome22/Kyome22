@@ -1,11 +1,9 @@
-<p align="center">
+<p align="left">
   <picture>
-    <source srcset="/images/banner_dark.png" media="(prefers-color-scheme: dark)" alt="Kyome22">
-    <img src="/images/banner.png" alt="Kyome22">
+    <source srcset="/images/banner_dark.png" media="(prefers-color-scheme: dark)">
+    <img src="/images/banner.png" alt="Kyome22" height="60">
   </picture>
 </p>
-
-![statistics](images/userstats.svg)
 
 [![Likes](https://badgen.org/img/zenn/kyome/likes?style=flat)](https://zenn.dev/kyome)
 [![Articles](https://badgen.org/img/zenn/kyome/articles?style=flat)](https://zenn.dev/kyome)
@@ -26,7 +24,6 @@
 ### Swift Packages
 
 - [AudioVisualizerKit](https://github.com/Kyome22/AudioVisualizerKit)
-- [DependencyList](https://github.com/Kyome22/DependencyList)
 - [EmojiPalette](https://github.com/Kyome22/EmojiPalette)
 - [FlexibleStack](https://github.com/Kyome22/FlexibleStack)
 - [InfinitePaging](https://github.com/Kyome22/InfinitePaging)
