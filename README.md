@@ -23,6 +23,7 @@
 
 ### Swift Packages
 
+- [AnimationLimitBreaker](https://github.com/Kyome22/AnimationLimitBreaker)
 - [AudioVisualizerKit](https://github.com/Kyome22/AudioVisualizerKit)
 - [EmojiPalette](https://github.com/Kyome22/EmojiPalette)
 - [FlexibleStack](https://github.com/Kyome22/FlexibleStack)
